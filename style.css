@@ -1,0 +1,410 @@
+/*
+This code is valid CSS 3. Verify it: http://jigsaw.w3.org/css-validator/
+CSS3 is an experimental standard. Some vendor-specific extensions are necessary to invoke. These cannot be made to validate.
+E-mail us if you think you've found a problem; we'd love to fix them.
+
+The BSD License.
+
+Developer: Dionysis "dionyziz" Zindros <dionyziz@kamibu.com>
+           Petros Aggelatos <petros@kamibu.com>
+           
+Copyright (c) 2010, Dionysis Zindros and Petros Aggelatos
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of Dionysis Zindros nor Petros Aggelatos nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY DIONYSIS ZINDROS AND PETROS AGGELATOS ``AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL KAMIBU BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
+
+body {
+    font-family: 'Trebuchet MS', Tahoma, 'Lucida Grande', Verdana, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #86C9EF;
+    color: #444;
+}
+h1, h2, h3, h4 {
+    font: bold 36px/36px arial,sans-serif;
+    color: #4e4e3e;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 21px;
+    color: #5e5e4e;
+}
+h3 {
+    font-size: 20px;
+}
+h3.done {
+    background-image: url('images/check-inv.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 25px;
+    display: inline;
+}
+h3 strong {
+    font-size: 70%;
+    font-weight: normal;
+}
+a img {
+    border: 0;
+}
+#sea {
+    position: fixed;
+    bottom: 0;
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+}
+#everything {
+    width: 800px;
+    background: white;
+    padding: 20px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 100px auto;
+    position: relative;
+}
+#announce strong {
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: normal;
+    color: #9c9c9c;
+}
+#announce ul {
+    padding-left: 0
+}
+#announce li {
+    clear: both;
+    list-style: none;
+    padding: 2px 0;
+}
+#bibliography {
+    position: absolute;
+    background-image: url('images/blackbg.jpg');
+    background-repeat: repeat-x;
+    background-position: left top;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: #d0c5c0;
+    padding: 5px 20px 5px 5px;
+}
+#bibliography a, #lectures a {
+    color: #4f9bdc;
+}
+a {
+    color: #277cc5;
+}
+a:hover {
+    background-color: #4f9bdc;
+    color: white;
+    text-decoration: none;
+}
+#bibliography a:hover, #lectures a:hover {
+    background-color: #4f9bdc;
+    color: black;
+    text-decoration: none;
+}
+#bibliography h2 {
+    color: #d0c5c0;
+    font-family: Georgia, "Gill Sans", "Gill Sans MT", sanf-serif;
+    font-size: 36px;
+    font-weight: normal;
+}
+#bibliography .readme {
+    margin-left: 200px;
+}
+    #bibliography .readme ul {
+        list-style-image: url( 'images/star-inv.png' );
+    }
+    #bibliography .readme ul li {
+        line-height: 25px;
+    }
+#bibliography img#bookcase {
+    width: 150px;
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+#bibliography div.bookcase {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+#bibliography div.bookcase:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#bibliography div.bookcase ul {
+    list-style: none;
+}
+#bibliography div.bookcase a:hover {
+    background-color: transparent;
+}
+#bibliography div.bookcase a:hover img {
+    width: 35px;
+}
+#bibliography .ppk {
+    position: absolute;
+    left: 103px;
+    bottom: 166px;
+}
+#bibliography .svn {
+    position: absolute;
+    left: 69px;
+    bottom: 117px;
+}
+#bibliography .phpcookbook {
+    position: absolute;
+    left: 104px;
+    bottom: 115px;
+}
+#bibliography .mysqlcookbook {
+    position: absolute;
+    left: 67px;
+    bottom: 168px;
+}
+#bibliography .phpmysql {
+    position: absolute;
+    left: 27px;
+    bottom: 115px;
+}
+#bibliography .htmldog {
+    position: absolute;
+    left: 25px;
+    bottom: 166px;
+}
+#bibliography .ppk img {
+    width: 32px;
+}
+#bibliography .svn img {
+    width: 30px;
+}
+#bibliography .phpcookbook img {
+    width: 30px;
+}
+#bibliography .mysqlcookbook img {
+    width: 30px;
+}
+#bibliography .phpmysql img {
+    width: 33px;
+}
+#bibliography .htmldog img {
+    width: 32px;
+}
+#bibliography a.back {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    padding: 5px 5px 5px 20px;
+    background-image: url( 'images/arrow-alt-left.png' );
+    background-repeat: no-repeat;
+    background-position: left;
+    color: #ddd;
+    text-decoration: none;
+    font-size: 90%;
+    z-index: 1;
+}
+#bibliography a.back:hover {
+    background-color: transparent;
+}
+#cloud {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-image: url( 'images/skycloud.png' );
+    background-repeat: no-repeat;
+    width: 176px;
+    height: 90px;
+}
+#navigation {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#navigation li {
+    display: inline;
+}
+#legal {
+    float: right;
+}
+#lectures {
+    background: url( 'images/bluebg.jpg' ) repeat fixed center center #1c1c2d;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: #e5e5e5;
+    padding: 20px;
+}
+#lectures h2, #lectures h3 {
+    color: #f0f0f0;
+    font-weight: normal;
+}
+#lectures div {
+    margin-left: 20px;
+}
+#lectures p {
+    font-size: 13px;
+}
+#lectures p strong {
+    color: white;
+}
+#lectures .back {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 5px 5px 20px;
+    background-image: url( 'images/arrow-alt-up.png' );
+    background-repeat: no-repeat;
+    background-position: left;
+    text-decoration: none;
+    font-size: 90%;
+    color: white;
+}
+#lectures .back:hover {
+    background-color: transparent;
+    color: white;
+}
+#lectures div.footnote {
+    margin-left: 0;
+    padding: 0 20px;
+    font-size: 90%;
+    color: #789;
+    border-top: 1px solid #3b4a58;
+}
+.icon {
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 22px;
+}
+.video {
+    background-image: url('images/media-video-inv.png');
+}
+.check {
+    background-image: url('images/check-inv.png');
+}
+.pencil {
+    background-image: url('images/pencil-inv.png');
+}
+.search {
+    background-image: url('images/search-inv.png');
+}
+div.dim {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-color: black;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    display: none;
+}
+div.modal {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    position: absolute;
+    top: 75px;
+    left: 50%;
+    margin: 0 0 0 -350px;
+    width: 700px;
+    padding: 0 20px;
+    z-index: 2;
+    display: none;
+}
+div.modal a.back {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 150%;
+}
+div.modal p img {
+    float: left;
+    margin-right: 10px;
+}
+div.modal p.license {
+    text-align: center;
+}
+div.modal p.license img {
+    float: none;
+    display: block;
+    margin: auto;
+}
+ul.toolbox {
+    list-style: none;
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+ul.toolbox li {
+    display: inline;
+    padding: 2px;
+}
+ul.toolbox a:hover {
+    background-color: transparent;
+}
+ul.toolbox .icon img {
+    background-color: white;
+}
+ul.toolbox img {
+    padding: 2px 2px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+ul.toolbox .facebook img {
+    padding: 3px;
+}
+ul.toolbox a:hover img {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#cloudcontainer {
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+}
+#slides {
+    margin-bottom: 60px; 
+}

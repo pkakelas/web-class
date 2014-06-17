@@ -1,0 +1,188 @@
+@media print {
+    * {
+        background-color: white !important;
+        color: black !important;
+        border: 0 none transparent !important;
+    }
+}
+body {
+    font-family: Verdana;
+    font-size: 90%;
+    background-color: #86c9ef;
+    margin: 0;
+}
+.universe {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    width: 980px;
+    margin: 10px auto;
+}
+h1 {
+    font-size: 110%;
+    margin: 0;
+    color: #3e3e3e;
+}
+form {
+}
+form div {
+    padding: 2px 0;
+}
+form div label {
+    display: block;
+    font-size: 70%;
+    padding: 2px 0;
+    font-weight: bold;
+    color: #666;
+}
+form div input {
+    display: block;
+    width: 150px;
+}
+form input[type="submit"] {
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin: 5px 0;
+    background-color: #2e8cf0;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #2e8cf0;
+    border-top: 1px solid #2778cf;
+    text-shadow: #2165ae 1px 1px 2px;
+    border-bottom: 1px solid #b1d9ef;
+    background-image:
+        -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, rgb(46,140,240)),
+            color-stop(1, rgb(70,177,239))
+        );
+    background-image:
+        -moz-linear-gradient(
+            center bottom,
+            rgb(46,140,240) 0%,
+            rgb(70,177,239) 100%
+        );
+    cursor: pointer;
+}
+form input[type="submit"]:hover {
+    background-color: #46b2ef;
+    background-image:
+        -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, rgb(70,177,239))
+            color-stop(1, rgb(46,140,240)),
+        );
+    background-image:
+        -moz-linear-gradient(
+            center bottom,
+            rgb(70,177,239) 0%,
+            rgb(46,140,240) 100%
+        );
+}
+.note {
+    font-size: 80%;
+}
+div.box {
+    border: 2px solid red;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #ff9;
+    font-weight: bold;
+    padding: 5px;
+    margin: 20px auto;
+    width: 350px;
+}
+table {
+    width: 100%;
+}
+textarea {
+    width: 100%;
+    height: 100px;
+}
+table td.comments {
+    width: 100%;
+}
+td, th {
+    text-align: left;
+    vertical-align: top;
+}
+table.announce {
+    border-collapse: separate; 
+    border: 2px solid #d8d8d8;
+}
+table.announce input {
+    width: 100%;
+}
+table.announce td {
+    border: 1px solid #474747;
+    border-right-color: #d8d8d8;
+    border-bottom-color: #d8d8d8;
+}
+table.announce span:hover {
+    cursor: pointer;
+    background-color: #ffc;
+}
+table.announce span {
+    display: block;   
+}
+col.announceid {
+    display: none;
+    border: 1px solid red;
+}
+ul.correctmemenu {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.correctmemenu a {
+    background-repeat: no-repeat;
+    float: right;
+    font-size: 0;
+    list-style: none outside none;
+    margin: 0;
+    padding: 10px;
+    display: block;
+}
+ul.correctmemenu .next {
+    background-image: url( "http://www.defaulticon.com/assets/icons/png/16x16/arrow-alt-right.png" );
+}
+ul.correctmemenu .prev {
+    background-image: url( "http://www.defaulticon.com/assets/icons/png/16x16/arrow-alt-left.png" );
+}
+span.codeerror {
+    background-color: red;
+    border-color: green;
+    border-style: solid;
+    border-width: 0 3px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0 5px;
+}
+span.validates {
+    color: green;
+    font-weight: bold;
+}
+span.validatesnot {
+    color: red;
+    font-weight: bold;
+}
+#subm_text {
+    width: 100%;
+    margin-top: 20px;
+}
+img.delete_announce {
+    display: block;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
