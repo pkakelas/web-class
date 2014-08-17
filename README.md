@@ -23,4 +23,4 @@ We would like to thank professors of [Software Engineering Laboratory](http://ww
 
 Licence
 -------
-MIT licence. For more information see LICENCE.md.
+MIT licence. For more information see [licence](https://github.com/pkakelas/web-class/blob/master/LICENCE).
