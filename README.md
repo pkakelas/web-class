@@ -15,7 +15,7 @@ Organizers
 
 * The web development and designing of this site has been done by Petros and Dionysis. Themis Papameletiou contributed in the page designing.
 
-* The hosting of the repository as well as the site maintaining is being done by [Dimitris Lamprinos](https://pkakelas.com)
+* The hosting of the repository as well as the site maintaining is being done by [Dimitris Lamprinos](https://pkakelas.com).
 
 Credits
 -------
