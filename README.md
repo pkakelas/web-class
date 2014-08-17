@@ -19,8 +19,7 @@ Organizers
 
 Credits
 -------
-We would like to thank professors Dimitris Fotakis, Nikos Papaspirou and Kostis Sagonas for their supporting 
-as well as the E.C.E president mr. Andreas Stafylopatis. 
+We would like to thank professors of [Software Engineering Laboratory](http://www.softlab.ntua.gr/) [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), [Nikos Papaspirou](http://www.softlab.ntua.gr/~nickie/) and Kostis Sagonas for their supporting as well as the E.C.E president Andreas Stafylopatis. 
 
 Licence
 -------
