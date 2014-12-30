@@ -16,7 +16,7 @@
             <h3 class='done' id="lec1">Παράδοση 1η: <strong>Εισαγωγή στην HTML</strong></h3>
             <div>
                 <p>
-                    <a href="http://www.youtube.com/watch?v=hU9t8eRtLFw&amp;p=E891D8D3C36610AA&amp;index=1&amp;feature=BF">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/EkxDPma6vRX7MLdwYG11G4">HD Video</a>, <a href="slides/01_htmlbeginner.pdf">Διαφάνειες</a>
+                    <a href="https://www.youtube.com/watch?v=lyyoqlneOIQ&amp;index=48&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/EkxDPma6vRX7MLdwYG11G4">HD Video</a>, <a href="slides/01_htmlbeginner.pdf">Διαφάνειες</a>
                 </p>
                 <ul>
                     <li>HTML και CSS</li>
@@ -33,7 +33,7 @@
             <h3 class='done' id="lec2">Παράδοση 2η: <strong>Εισαγωγή στην CSS</strong></h3>
             <div>
                 <p>
-                    <a href="http://www.youtube.com/watch?v=L23r0WNTepQ&amp;p=E891D8D3C36610AA&amp;index=8&amp;feature=BF">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/BUEQbCvAD6vDUndyCOBSZ">HD Video</a>, <a href="slides/02_cssbeginner.pdf">Διαφάνειες</a>
+                    <a href="https://www.youtube.com/watch?v=pJL2oqSWyuk&amp;index=47&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/BUEQbCvAD6vDUndyCOBSZ">HD Video</a>, <a href="slides/02_cssbeginner.pdf">Διαφάνειες</a>
                 </p>
                 <ul>
                     <li>Βασική σύνταξη CSS</li>
@@ -51,7 +51,7 @@
             <h3 class="done" id="lec3">Παράδοση 3η: <strong>Περισσότερα για HTML</strong></h3>
             <div>
                 <p>
-                    <a href="http://www.youtube.com/watch?v=pW8xCYbKIEU&amp;p=E891D8D3C36610AA&amp;index=15&amp;feature=BF">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/RCWHe4aBe4SbvJBmKccSV5">HD Video</a>, <a href="slides/03_htmlintermediate.pdf">Διαφάνειες</a>
+                    <a href="https://www.youtube.com/watch?v=_lwQJGrYtBU&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/RCWHe4aBe4SbvJBmKccSV5">HD Video</a>, <a href="slides/03_htmlintermediate.pdf">Διαφάνειες</a>
                 </p>
                 <ul>
                     <li>Φόρμες</li>
@@ -69,7 +69,7 @@
             <h3 class="done" id="lec4">Παράδοση 4η: <strong>Περισσότερα για CSS</strong></h3>
             <div>
                 <p>
-                    <a href="http://www.youtube.com/watch?v=WeTK7SW1lWA&amp;feature=view_all&amp;list=PLE891D8D3C36610AA&amp;index=20">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/Ssb3CtqEtYv84yYUOnGOx4">HD Video</a>, <a href="slides/04_cssintermediate.pdf">Διαφάνειες</a>
+                    <a href="https://www.youtube.com/watch?v=WeTK7SW1lWA&amp;index=1&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/Ssb3CtqEtYv84yYUOnGOx4">HD Video</a>, <a href="slides/04_cssintermediate.pdf">Διαφάνειες</a>
                 </p>
                 <ul>
                     <li>Κλάσεις και ids</li>
@@ -87,7 +87,7 @@
             <h3 class="done" id="lec5">Παράδοση 5η: <strong>Προχωρημένα θέματα HTML</strong></h3>
             <div>
                 <p>
-                    <a href="http://www.youtube.com/watch?v=gzvjLfpor74&amp;feature=view_all&amp;list=PLE891D8D3C36610AA&amp;index=21">YouTube Video</a>,
+                    <a href="https://www.youtube.com/watch?v=gzvjLfpor74&amp;amp;index=2&amp;amp;list=PLE891D8D3C36610AA">YouTube Video</a>,
                     <a href="https://pithos.okeanos.grnet.gr/public/eLWjHc4rqVKChux3iBZlN2">HD Video</a>, <a href="http://web-seminar.softlab.ntua.gr/resources/example1/radikia.html">Παράδειγμα</a>, <a href="http://web-seminar.softlab.ntua.gr/slides/05_htmladvanced.pdf">Διαφάνειες</a>
                 </p>
                 <ul>
@@ -101,7 +101,7 @@
             
             <h3 class="done" id="lec6">Παράδοση 6η: <strong>Προχωρημένα θέματα CSS</strong></h3>
             <div>
-                <p><a href="http://www.youtube.com/watch?v=oZBU5LBqmRM&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=21">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/mVxXJA3dpHLZtV7Kc5Vfp3">HD Video</a>, <a href="slides/06_cssadvanced.pdf">Διαφάνειες</a>, <a href="resources/css3examples">Παραδείγματα</a></p>
+                <p><a href="https://www.youtube.com/watch?v=LbdkFPgUics&amp;amp;amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/mVxXJA3dpHLZtV7Kc5Vfp3">HD Video</a>, <a href="slides/06_cssadvanced.pdf">Διαφάνειες</a>, <a href="resources/css3examples">Παραδείγματα</a></p>
                 <ul>
                     <li>Προτεραιότητα</li>
                     <li>Floats</li>
@@ -117,7 +117,7 @@
 
             <h3 class="done" id="lec7">Παράδοση 7η: <strong>Δικτυακά θέματα</strong></h3>
             <div>
-                <p><a href="http://www.youtube.com/watch?v=pebIFsiAQ1o&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=27">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/TfpoKBEMjkrvLwHei5okh5">HD Video</a>, <a href="slides/07_networks.pdf">Διαφάνειες</a></p>
+                <p><a href="https://www.youtube.com/watch?v=O4K6K8-ylVo&amp;index=42&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/TfpoKBEMjkrvLwHei5okh5">HD Video</a>, <a href="slides/07_networks.pdf">Διαφάνειες</a></p>
                 <ul>
                     <li>Αρχιτεκτονική client/server</li>
                     <li>Πρωτόκολλα</li>
@@ -131,7 +131,7 @@
             
             <h3 class="done" id="lec8">Παράδοση 8η: <strong>Εισαγωγή στην PHP</strong></h3>
             <div>
-                <p><a href="http://www.youtube.com/watch?v=eRZCO_MlpfI&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=35">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/oezyCRiyM29cW0cJ6OPZ25">HD Video</a>, <a href="slides/08_phpbeginner.pdf">Διαφάνειες</a></p>
+                <p><a href="https://www.youtube.com/watch?v=UkXKSbxwmAQ&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/oezyCRiyM29cW0cJ6OPZ25">HD Video</a>, <a href="slides/08_phpbeginner.pdf">Διαφάνειες</a></p>
                 <ul>
                     <li>Βασική σύνταξη PHP</li>
                     <li>Συνδυασμός PHP και HTML</li>
@@ -149,7 +149,7 @@
             
             <h3 class="done" id="lec9">Παράδοση 9η: <strong>Περισσότερα για PHP</strong></h3>
             <div>
-                <p><a href="http://www.youtube.com/watch?v=u50RlZV8Psc&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=42">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/GUHZyDZbGofiSPiOkYETA3">HD Video</a>, <a href="slides/09_phpintermediate.pdf">Διαφάνειες</a></p>
+                <p><a href="https://www.youtube.com/watch?v=eqPsI2Hyk-M&amp;index=44&amp;list=PLE891D8D3C36610AA">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/GUHZyDZbGofiSPiOkYETA3">HD Video</a>, <a href="slides/09_phpintermediate.pdf">Διαφάνειες</a></p>
                 <ul>
                     <li>Χωρισμός κώδικα σε αρχεία</li>
                     <li>Εμβέλεια μεταβλητών</li>
@@ -165,7 +165,7 @@
             
             <h3 class="done" id="lec10">Παράδοση 10η: <strong>PHP GD</strong></h3>
             <div>
-                <p><strong>Ειδικό θέμα PHP</strong>: <a href="http://www.youtube.com/watch?v=-a1fiLM23sI&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=50">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/GcPoP9oZ4oEUTIH3tG1R86">HD Video</a>, <a href="resources/plot">Γραφική παράσταση</a>, <a href="resources/fractal">Fractal</a></p>
+                <p><strong>Ειδικό θέμα PHP</strong>: <a href="https://www.youtube.com/watch?v=5ce9EgCJ1sc&list=PLE891D8D3C36610AA&index=43">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/GcPoP9oZ4oEUTIH3tG1R86">HD Video</a>, <a href="resources/plot">Γραφική παράσταση</a>, <a href="resources/fractal">Fractal</a></p>
                 <ul>
                     <li>Επεξεργασία εικόνας με την βιβλιοθήκη GD</li>
                     <li>Κατασκευή προγράμματος γραφικών παραστάσεων</li>
@@ -202,7 +202,7 @@
             
             <h3 class="done" id="lec12">Παράδοση 12η: <strong>Περισσότερα για MySQL</strong></h3>
             <div>
-                <p><a href="http://www.youtube.com/watch?v=jOT9wprk7LI&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=60">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/yx9DoKOcLaPasAma9vjpy1">HD Video</a>, <a href="slides/11_mysqlintermediate.pdf">Διαφάνειες</a></p>
+                <p><a href="http://www.youtube.com/watch?v=jOT9wprk7LI&amp;feature=BF&amp;list=PLE891D8D3C36610AA&amp;index=60">YouTube Video</a>, <a href="https://pithos.okeanos.grnet.gr/public/yx8DoKOcLaPasAma9vjpy1">HD Video</a>, <a href="slides/11_mysqlintermediate.pdf">Διαφάνειες</a></p>
                 <ul>
                     <li>Ταξινόμηση</li>
                     <li>Όρια</li>
